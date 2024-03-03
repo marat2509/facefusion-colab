@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Disable NSFW checks",
+        "url": "https://raw.githubusercontent.com/marat2509/facefusion-colab/master/patches/disable_nswf_checks.patch"
+    }
+]
